@@ -15,7 +15,7 @@
 
 **баг-репорт**
 
-1.  https://github.com/Ek-Arhmann/javaqa-homeworks_1/issues/3
+1. https://github.com/Ek-Arhmann/javaqa-homeworks_1/issues/3
 2. https://github.com/Ek-Arhmann/javaqa-homeworks_1/issues/2
 
 
