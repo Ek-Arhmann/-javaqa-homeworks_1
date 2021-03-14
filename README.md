@@ -15,8 +15,9 @@
 
 **баг-репорт**
 
-1. https://github.com/Ek-Arhmann/javaqa-homeworks_1/issues/3
-2. https://github.com/Ek-Arhmann/javaqa-homeworks_1/issues/2
+1.[В списке не валидных ключей выявлен валидный ключ](https://github.com/Ek-Arhmann/javaqa-homeworks_1/issues/3)
+
+2.[Не валидные ключи в списке валидных](https://github.com/Ek-Arhmann/javaqa-homeworks_1/issues/2)
 
 
 В качестве тестовых данных использовались данные https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md
